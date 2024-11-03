@@ -3,7 +3,7 @@
         <div class="text-center">
             <h1 class="text-5xl font-bold mb-4 text-black">Rate Your Favorite Football Players</h1>
             <p class="text-xl mb-6 text-black">Join our community and help rank the best players in the world!</p>
-            <button class="bg-teal-400 px-6 py-3 rounded text-lg hover:bg-teal-600">Get Started</button>
+            <button class="bg-teal-400 px-6 py-3 rounded text-lg hover:bg-teal-600">Get Started and rate your favourite players now!</button>
         </div>
     </section>
 
